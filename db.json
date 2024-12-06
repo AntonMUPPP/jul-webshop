@@ -1,0 +1,144 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Konstgjord gran",
+        "price": 500,
+        "description": "En naturtrogen konstgjord gran som håller i många år.",
+        "stock": 20
+      },
+      {
+        "id": 2,
+        "name": "Julbelysning",
+        "price": 150,
+        "description": "Vackra LED-ljus för utomhusbruk med låg energiförbrukning.",
+        "stock": 50
+      },
+      {
+        "id": 3,
+        "name": "Juldekoration",
+        "price": 75,
+        "description": "Ett set med olika juldekorationer i klassiska färger.",
+        "stock": 100
+      },
+      {
+        "id": 4,
+        "name": "Tomtedräkt",
+        "price": 300,
+        "description": "En mysig tomtedräkt för både vuxna och barn.",
+        "stock": 15
+      },
+      {
+        "id": 5,
+        "name": "Nyårsraketer",
+        "price": 200,
+        "description": "Ett paket med färgglada nyårsraketer (endast för utomhusbruk).",
+        "stock": 30
+      },
+      {
+        "id": 6,
+        "name": "Julkrans",
+        "price": 120,
+        "description": "En handgjord julkrans med granris och röda bär.",
+        "stock": 40
+      },
+      {
+        "id": 7,
+        "name": "Adventsljusstake",
+        "price": 250,
+        "description": "En klassisk adventsljusstake i modern design.",
+        "stock": 25
+      },
+      {
+        "id": 8,
+        "name": "Pepparkakshus-kit",
+        "price": 90,
+        "description": "Bygg ditt eget pepparkakshus med detta kompletta kit.",
+        "stock": 60
+      },
+      {
+        "id": 9,
+        "name": "Julkort",
+        "price": 30,
+        "description": "Ett paket med 10 julkort och kuvert.",
+        "stock": 150
+      },
+      {
+        "id": 10,
+        "name": "Glöggset",
+        "price": 220,
+        "description": "Ett set med glöggmuggar och en värmare.",
+        "stock": 35
+      },
+      {
+        "id": 11,
+        "name": "Snöglob",
+        "price": 180,
+        "description": "En vacker snöglob med ett julmotiv.",
+        "stock": 20
+      },
+      {
+        "id": 12,
+        "name": "Julgranspynt",
+        "price": 50,
+        "description": "Ett set med 20 julgranskulor i olika färger.",
+        "stock": 80
+      },
+      {
+        "id": 13,
+        "name": "Ljusgardin",
+        "price": 300,
+        "description": "En ljusgardin med varmvita LED-lampor.",
+        "stock": 10
+      },
+      {
+        "id": 14,
+        "name": "Nyårshattar",
+        "price": 100,
+        "description": "Ett set med 10 festliga nyårshattar.",
+        "stock": 50
+      },
+      {
+        "id": 15,
+        "name": "Julstrumpor",
+        "price": 70,
+        "description": "Set med 3 julstrumpor för att hänga vid öppna spisen.",
+        "stock": 45
+      },
+      {
+        "id": 16,
+        "name": "Islyktor",
+        "price": 250,
+        "description": "Ett set med två islyktor för att skapa stämning utomhus.",
+        "stock": 20
+      },
+      {
+        "id": 17,
+        "name": "Julbordslöpare",
+        "price": 90,
+        "description": "En röd julbordslöpare med snöflingemotiv.",
+        "stock": 70
+      },
+      {
+        "id": 18,
+        "name": "Bordsdekoration",
+        "price": 110,
+        "description": "Ett set med julbordsdekorationer, inklusive små granar och ljus.",
+        "stock": 35
+      },
+      {
+        "id": 19,
+        "name": "Julgransmatta",
+        "price": 200,
+        "description": "En rund matta för att skydda golvet under julgranen.",
+        "stock": 25
+      },
+      {
+        "id": 20,
+        "name": "Tomteljus",
+        "price": 50,
+        "description": "Ett set med 5 tomteformade ljus.",
+        "stock": 60
+      }
+    ]
+  }
